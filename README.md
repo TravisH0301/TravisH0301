@@ -6,5 +6,7 @@ Insightful and analytical Data Science student with strong problem-solving and m
 - Software: Python, R, SQL, Excel, Tableau
 - Libraries: Seaborn, Plotly, GGplot2, Shiny, Sklearn, XGBoost, Tensorflow, Keras, NLTK, OpenCV
 
-
+#### Links:
+Linkedin: https://www.linkedin.com/in/travis-j-hong/
+Kaggle: https://www.kaggle.com/travishong 
 
