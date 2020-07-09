@@ -1,5 +1,5 @@
 ### Travis Hong @TravisH0301
-Currently studying Master of Data Science. Passionate about actualising the potential of technology to create values for the business and communities. 
+Student learning Data Science. Passionate about actualising the potential of technology to create values for the business and communities. 
 
 <!--
 **TravisH0301/TravisH0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
