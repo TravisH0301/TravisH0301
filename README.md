@@ -2,5 +2,5 @@
 Insightful and analytical Data Science student with strong problem-solving and mathematical capabilities from Engineering background. Passionate about actualising the potential of technology to create values for the business and communities.
 
 #### Skillset:
-- Data Visualisation, Data Analysis, Machine Learning, Deep Learning
+- Data Analysis, Data Visualisation, Statistical Modelling, Machine Learning
 - Software: Python, R, SQL, Excel, Tableau
