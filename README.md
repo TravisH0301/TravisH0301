@@ -6,5 +6,5 @@ I also keep some brief notes while learning for myself in [`learning`](https://g
 Happy coding!
 
 #### Skillset:
-- Data Analysis, Data Visualisation, Statistical Modelling, Machine Learning, Big Data Processing
-- Software: Python, R, SQL, PySpark, Excel, Tableau
+- Data Analysis, Data Visualisation, Statistical Modelling, Machine Learning, Big Data Processing, Agile
+- Software: Python, R, SQL, PySpark, Excel, Tableau, Unix Bash
