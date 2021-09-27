@@ -8,4 +8,4 @@ You can check out [`learning`](https://github.com/TravisH0301/learning) and [`da
 
 ---
 ### Contact with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/travis-j-hong)
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/TravisH0301/TravisH0301/blob/master/images/linkedin%20logo.png" />]( http://www.linkedin.com/in/travis-j-hong)
