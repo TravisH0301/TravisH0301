@@ -1,5 +1,5 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Travis!
-
+---
 I'm a data professional with a background in data science and engineering.<br>
 I love applying technology to build innovative solutions and create values. 
 
