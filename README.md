@@ -4,7 +4,7 @@ I'm a curious and self-motivated data engineer with a data science and engineeri
 I'm constantly learning and love to apply technology for innovations.
 
 My github contains some of footprints of my learning journey, and I'm currently expanding my knowledge in data engineering.<br>
-You can check out [`learning`](https://github.com/TravisH0301/learning) and [`data_projects`](https://github.com/TravisH0301/data_science_projects) for the notes and projects I've made during learning.
+You can check out [`learning`](https://github.com/TravisH0301/learning) for the notes I've made during learning.
 
 ---
 ### Contact with me
