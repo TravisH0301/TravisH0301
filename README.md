@@ -2,7 +2,8 @@
 
 I'm a data engineer with a data science and engineering background. <br>
 
-My github contains some of footprints of my learning journey, and I'm currently expanding my knowledge in data engineering.<br>
+My github contains some of footprints of my learning journey,<br>
+and I'm currently expanding my knowledge in data engineering.<br>
 You can check out [`learning`](https://github.com/TravisH0301/learning) for the notes I've made during learning.
 
 ---
